@@ -1,0 +1,17 @@
+{
+    "name": "test/api",
+    "description": "test",
+    "type": "project",
+    "license": "alphabetical",
+    "authors": [
+        {
+            "name": "Danil Krasnyh",
+            "email": "dkrasnih@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "6.1",
+        "phpunit/phpunit": "5.0"
+    }
+}
